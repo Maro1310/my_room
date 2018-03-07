@@ -1,0 +1,18 @@
+{
+    "room":   null,
+    "author": "Máro || ΜFΣ",
+    "css":    null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot":    true,
+        "allowAutojoin":    true,
+        "allowAutograb":    true,
+        "allowSmartVote":   true,
+        "allowEmotes":      true,
+        "allowShowingMehs": true,
+        "forceSmartVote":   false
+    },
+    "images": {
+        "playback": "https://i.imgur.com/eKoIQDS.png"
+    }
+}
